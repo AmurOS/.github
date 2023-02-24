@@ -6,4 +6,4 @@ bas1c1 - team lead (kernel libraries and drivers)
 
 FrostySF - programmer (kernel)
 
-diarama-py - programmer (graphics)
+ProgramPyYT - programmer (graphics)
