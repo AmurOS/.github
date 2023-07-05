@@ -6,6 +6,6 @@ bas1c1 - team lead (kernel libraries and drivers)
 
 FrostySF - programmer (kernel)
 
-ProgramPyYT - programmer (graphics)
+ProgramPyYT
 
-RedLeader167 - programmer (drivers)
+RedLeader167
