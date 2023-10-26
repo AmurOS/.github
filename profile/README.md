@@ -2,8 +2,6 @@
 
 Team composition:
 
-bas1c1 - team lead (kernel libraries and drivers)
+bas1c1 - team lead (kernel, kernel libraries)
 
-FrostySF - programmer (kernel)
-
-ProgramPyYT
+FrostySF - programmer (kernel drivers)
